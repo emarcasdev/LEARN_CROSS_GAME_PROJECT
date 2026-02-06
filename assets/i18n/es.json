@@ -1,0 +1,36 @@
+{
+  "common": {
+    "title": "JUEGO-XOOX",
+    "play": "Jugar",
+    "easy": "Fácil",
+    "hard": "Difícil",
+    "language": "Idioma",
+    "theme": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "playAgain": "Jugar de nuevo",
+    "goToIndex": "Volver al inicio"
+  },
+  "home": {
+    "label": "Nombre del jugador:",
+    "namePlaceholder": "Introduce tu nombre",
+    "startEasy": "Jugar (Fácil)",
+    "startHard": "Jugar (Difícil)",
+    "ranking": "Clasificación"
+  },
+  "game": {
+    "name": "Nombre:",
+    "difficulty": "Modo:",
+    "timer": "Tiempo:",
+    "draw": "¡Empate!",
+    "win": "¡Has ganado!",
+    "lose": "¡Has perdido!",
+    "time": "La partida ha durado",
+    "seconds": "segundos",
+    "exit": "Abandonar partida"
+  },
+  "ranking": {
+    "title": "Clasificación",
+    "goToIndex": "Volver al inicio"
+  }
+}

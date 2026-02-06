@@ -1,0 +1,36 @@
+{
+  "common": {
+    "title": "GAME-XOOX",
+    "play": "Play",
+    "easy": "Easy",
+    "hard": "Hard",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "playAgain": "Play again",
+    "goToIndex": "Back to home"
+  },
+  "home": {
+    "label": "Player name:",
+    "namePlaceholder": "Enter your name",
+    "startEasy": "Play (Easy)",
+    "startHard": "Play (Hard)",
+    "ranking": "Ranking"
+  },
+  "game": {
+    "name": "Name:",
+    "difficulty": "Mode:",
+    "timer": "Timer:",
+    "draw": "Draw!",
+    "win": "You win!",
+    "lose": "You lose!",
+    "time": "The game lasted",
+    "seconds": "seconds",
+    "exit": "Exit game"
+  },
+  "ranking": {
+    "title": "Ranking",
+    "goToIndex": "Back to home"
+  }
+}
